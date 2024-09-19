@@ -76,7 +76,7 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 - After creating the device, now you just need to copy **Device address, NwkSKey, AppSKey** and paste it into your code.
   
-![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Arduino_and_TTN_sucess.PNG)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Arduino_and_TTN_sucess2.PNG)
 
 - The data sent will be in the default format
   
