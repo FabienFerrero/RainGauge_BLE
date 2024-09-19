@@ -84,9 +84,7 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 - You can change the format of the data to be able to observe changes
   
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/2781e16a-544a-484d-b850-0a4cea05c686)
-
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/8319f2fe-63a4-4159-a227-730c41d03d47)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Format_change.PNG)
 
 ![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/bacd2547-f00b-4ce3-921c-7f5aad7f8b5a)
 
