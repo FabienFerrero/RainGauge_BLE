@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
   
 ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Receive_information_wrong_format.PNG)
 
-- You can change the format of the data to be able to observe changes, copy text on [TTN_formatters.txt](https://github.com/FabienFerrero/RainGauge_BLE/blob/main/TTN_fomatters.txt) and below as : 
+- You can change the format of the data to be able to observe changes, copy text on [TTN_formatters.txt](https://github.com/FabienFerrero/RainGauge_BLE/blob/main/TTN_fomatters.txt) and copy as below : 
   
 ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Format_change.PNG)
 
