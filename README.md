@@ -24,22 +24,22 @@ Support sensors:
 
 ## Installation
 
-### Hardware connection:
+### Hardware connection :
 
 ![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/43590e25-210d-4a73-9fea-75715c76654b)
 
 On the RainGauge board
 
-![image](https://github.com/FabienFerrero/RainGauge_BLE/blob/main/Picture/RainGauge-connect_1.jpg))
+![image](https://github.com/FabienFerrero/RainGauge_BLE/blob/main/Picture/RainGauge-connect_1.jpg)
 
-### In STM32CubeProgammer:
+### In STM32CubeProgammer :
   -  Hold the **B_RAK (boot)** button and press **R_RAK (reset)** button and release the **B_RAK (boot)** button to enter bootmode.
   -  Select UART, Baudrate 115200 and press Connect.
   -  Open RAK3172-E_latest_final.hex
   -  Select the address as in following image if needed
   -  Press Download to upload firmwave
   -  After download success, press **R_RAK (reset)** button to exit the bootmode
-  -  
+    
 <!-- ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Fichier_RAK11720_hex.PNG) -->
 <img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Fichier_RAK11720_hex.PNG" height="450">
 
@@ -50,13 +50,10 @@ On the RainGauge board
 https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless.com_rui_index.json
 ```
 
-  -  Go to **Tool -> Board -> Boards Manager**, search & install **RAKwireless RUI STM32 Boards**
-  -  Open ```ATC_Command_RF210.ino``` sketch, seletc **WisDou RAK3172-T Board** from **Tool** menu
-  -  Plug in your board and upload
+  -  Go to **Tools -> Board -> Boards Manager**, search & install **RAKwireless RUI Apollo3 Boards**
 
-
-<!-- ![image](https://github.com/XuanMinh201/RF210/assets/75436464/141710ed-1294-46ea-9951-63bea73622ed) -->
-<img src="https://github.com/XuanMinh201/RF210/assets/75436464/141710ed-1294-46ea-9951-63bea73622ed" height="450">
+<!-- ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation.PNG) -->
+<img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation.PNG" height="450">
 
   -  Select **Tool -> Board -> RAKwireless RUI STM32 Modules -> WisDuo RAK3172 Evaluation Board**
     
