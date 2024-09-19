@@ -53,9 +53,9 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
   -  Go to **Tools -> Board -> Boards Manager**, search & install **RAKwireless RUI Apollo3 Boards**
 
 <!-- ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation.PNG) -->
-<img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation1.PNG" height="450">
+<img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation2.PNG" height="450">
 
-  -  Select **Tool -> Board -> RAKwireless RUI STM32 Modules -> WisDuo RAK3172 Evaluation Board**
+  -  Select **Tools -> Board -> RAKwireless RUI Apollo3 Boards -> WisBlock Core RAK11720 Board**
     
 <!-- ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Selection_of_Apollo3.png) -->
 <img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Selection_of_Apollo3.png" height="450">
