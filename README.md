@@ -62,11 +62,11 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 
 ## The Things Network
-- Depends on your country region and how you set up your gateway. Please create the correct application with it to be able to receive data
-- In Danang, Vietnam we use the [**AS923_2**](https://ns.docs.everynet.io/channel_plans/AS920-923.html) band and [eu1.cloud.thethings.network](https://eu1.cloud.thethings.network/console/)
-- You need to **create application** for RainGauge Board
+- Depends on your country region and how you set up your gateway. Please create the correct application with it to be able to receive data. In Danang, the [**AS923_2**](https://ns.docs.everynet.io/channel_plans/AS920-923.html) band is used.
+- To have access to The Things Network, click on [eu1.cloud.thethings.network](https://eu1.cloud.thethings.network/console/)
+- Click on **Applications**, then **+ Add Application** and you **create application** for RainGauge Board : 
   
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/6263f471-85bb-40d7-8175-f36b86bb3b63)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/application_creation.PNG)
 
 - Select **end device -> Register end device** to create your device
   
