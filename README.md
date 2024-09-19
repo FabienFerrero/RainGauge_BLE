@@ -30,7 +30,7 @@ Support sensors:
 
 On the RainGauge board
 
-![image](https://github.com/FabienFerrero/RainGauge_BLE/blob/main/Picture/RainGauge-connect_1.jpg)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/RainGauge-connect_1%20(2).jpg)
 
 ### In STM32CubeProgammer :
   -  Hold the **B_RAK (boot)** button and press **R_RAK (reset)** button and release the **B_RAK (boot)** button to enter bootmode.
