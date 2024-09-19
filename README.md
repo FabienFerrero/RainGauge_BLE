@@ -9,9 +9,9 @@ Support sensors:
 ### Hardware
 
 - USB to UART Converter
-- RainGauge board
+- RainGauge board based on rak11720
 
-### Sortware
+### Software
 
 - Arduino IDE (version v1.8.13 or above is recommended)
 - RUI3 lastest firmware for RAK3172: [RAK3172-E_latest_final.hex](https://downloads.rakwireless.com/RUI/RUI3/Image/RAK3172-E_latest_final.hex)
