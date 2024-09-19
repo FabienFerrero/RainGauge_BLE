@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 - Select **end device -> Register end device** to create your device
   
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/f2f3e594-0dc0-4156-b542-02ef4c0393e8)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Version_lorawan.PNG)
 
 ![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/ff61130b-e472-45ed-bed2-2af3d836196b)
 
