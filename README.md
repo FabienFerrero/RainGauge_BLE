@@ -70,9 +70,9 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 - Select **end device -> Register end device** to create your device
   
-![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Version_lorawan.PNG)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Version_lorawan1.PNG)
 
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/ff61130b-e472-45ed-bed2-2af3d836196b)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Version_lorawan_end.PNG)
 
 - After creating the device, now you just need to copy **Device address, NwkSKey, AppSKey** and paste it into your code.
   
