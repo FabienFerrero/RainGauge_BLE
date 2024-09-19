@@ -53,12 +53,12 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
   -  Go to **Tools -> Board -> Boards Manager**, search & install **RAKwireless RUI Apollo3 Boards**
 
 <!-- ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation.PNG) -->
-<img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation.PNG" height="450">
+<img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Apollo3_installation1.PNG" height="450">
 
   -  Select **Tool -> Board -> RAKwireless RUI STM32 Modules -> WisDuo RAK3172 Evaluation Board**
     
-<!-- ![image](https://github.com/XuanMinh201/RF210/assets/75436464/146c570a-ec82-45bc-ada0-89544624b861) -->
-<img src="https://github.com/XuanMinh201/RF210/assets/75436464/146c570a-ec82-45bc-ada0-89544624b861" height="450">
+<!-- ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Selection_of_Apollo3.png) -->
+<img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Selection_of_Apollo3.png" height="450">
 
 
 ## The Things Network
