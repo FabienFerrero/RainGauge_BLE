@@ -14,7 +14,7 @@ Support sensors:
 ### Software
 
 - Arduino IDE (version v1.8.13 or above is recommended)
-- RUI3 lastest firmware for RAK3172: [RAK11720_latest_final.hex](https://downloads.rakwireless.com/RUI/RUI3/Image/RAK11720_latest_final.hex)
+- RUI3 lastest firmware for RAK11720 : [RAK11720_latest_final.hex](https://downloads.rakwireless.com/RUI/RUI3/Image/RAK11720_latest_final.hex)
 - (STM32CubeProgammer)[https://www.st.com/en/development-tools/stm32cubeprog.html]
 
 ### Additional Libraries
