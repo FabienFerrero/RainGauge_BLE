@@ -30,7 +30,7 @@ Support sensors:
 
 On the RainGauge board
 
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/83794843-a9d2-4d8a-8205-b86d8a1eae8a)
+![image](https://github.com/FabienFerrero/RainGauge_BLE/blob/main/Picture/RainGauge-connect_1.jpg))
 
 ### In STM32CubeProgammer:
   -  Hold the **B_RAK (boot)** button and press **R_RAK (reset)** button and release the **B_RAK (boot)** button to enter bootmode.
@@ -40,8 +40,8 @@ On the RainGauge board
   -  Press Download to upload firmwave
   -  After download success, press **R_RAK (reset)** button to exit the bootmode
   -  
-<!-- ![image](https://github.com/XuanMinh201/RF210/assets/75436464/55f5c5ab-d69a-4a25-94da-563d1e52a172) -->
-<img src="https://github.com/XuanMinh201/RF210/assets/75436464/55f5c5ab-d69a-4a25-94da-563d1e52a172" height="450">
+<!-- ![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Fichier_RAK11720_hex.PNG) -->
+<img src="https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Fichier_RAK11720_hex.PNG" height="450">
 
 ### In Arduino IDE:
   -  Add this JSON in Additional Boards Manager URLs [\(Show me how?\)](https://support.arduino.cc/hc/en-us/articles/360016466340-Add-third-party-platforms-to-the-Boards-Manager-in-Arduino-IDE):
