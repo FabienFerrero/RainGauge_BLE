@@ -1,6 +1,6 @@
 # RainGauge
 The device uses LoRaWAN to uplink temperature, humidity and precipitation sensor data through calculation.
-Data will be sent every 6 minutes, if there is rain, the sending time will be 1 minute
+Data will be sent every 10 minutes, if there is rain, the sending time will be 2 minutes
 Support sensors:
 - [Digital humidity and temperature sensor - SHTC3](https://www.sensirion.com/products/catalog/SHTC3/)
 
@@ -14,7 +14,7 @@ Support sensors:
 ### Software
 
 - Arduino IDE (version v1.8.13 or above is recommended)
-- RUI3 lastest firmware for RAK3172: [RAK3172-E_latest_final.hex](https://downloads.rakwireless.com/RUI/RUI3/Image/RAK3172-E_latest_final.hex)
+- RUI3 lastest firmware for RAK3172: [RAK11720_latest_final.hex](https://downloads.rakwireless.com/RUI/RUI3/Image/RAK11720_latest_final.hex)
 - (STM32CubeProgammer)[https://www.st.com/en/development-tools/stm32cubeprog.html]
 
 ### Additional Libraries
