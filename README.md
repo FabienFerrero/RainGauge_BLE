@@ -26,7 +26,7 @@ Support sensors:
 
 ### Hardware connection :
 
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/43590e25-210d-4a73-9fea-75715c76654b)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Design_RAK11720.PNG)
 
 On the RainGauge board
 
