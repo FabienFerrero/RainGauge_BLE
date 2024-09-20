@@ -84,9 +84,9 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 - You can change the format of the data to be able to observe changes, copy text on [TTN_formatters.txt](https://github.com/FabienFerrero/RainGauge_BLE/blob/main/TTN_fomatters.txt) and copy as below : 
   
-![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Format_change.PNG)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Format_change1.PNG)
 
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/bacd2547-f00b-4ce3-921c-7f5aad7f8b5a)
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/Receive_information_right_format1.PNG)
 
 ## Energy consumption
 - The average energy consumption when the device is operating (sending data to the server) is **8.36mA** for **~15s**.
