@@ -35,7 +35,7 @@ On the RainGauge board
 ### In STM32CubeProgammer :
   -  Hold the **B_RAK (boot)** button and press **R_RAK (reset)** button and release the **B_RAK (boot)** button to enter bootmode.
   -  Select UART, Baudrate 115200 and press Connect.
-  -  Open RAK3172-E_latest_final.hex
+  -  Open RAK11720_latest_final.hex
   -  Select the address as in following image if needed
   -  Press Download to upload firmwave
   -  After download success, press **R_RAK (reset)** button to exit the bootmode
