@@ -10,6 +10,9 @@ Support sensors:
 
 - USB to UART Converter
 - RainGauge board based on rak11720
+- Simple and low-cost rain gauge mechanism
+
+![image](https://github.com/BASSO-Jostin/RainGauge_BLE/blob/main/Picture/casing.PNG)
 
 ### Software
 
