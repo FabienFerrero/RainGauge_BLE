@@ -12,7 +12,7 @@ Support sensors:
 - RainGauge board based on rak11720
 - Simple and low-cost rain gauge mechanism
 
-![image](https://github.com/fabienferrero/RainGauge_BLE/blob/main/Picture/casing.PNG)
+![image](https://github.com/fabienferrero/RainGauge_BLE/blob/main/Picture/casing.png)
 
 ### Software
 
